@@ -12,3 +12,4 @@
 [0m2021.07.13 17:45:14 INFO  time: initialize in 25s[0m
 [0m2021.07.13 17:45:15 WARN  Build server is not auto-connectable.[0m
 [0m2021.07.13 17:45:15 WARN  no build tool detected in workspace '/home/miguelbarciela/Documentos/Python/Flask/FlaskMarket'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.13 19:16:27 INFO  shutting down Metals[0m
